@@ -14,4 +14,4 @@ Dr. Kyle Bradbury of the
 
 I like learning new things that involve numbers and technology, and applying what I learn to try and predict other things. This blog is part of my effort to document what I try and, hopefully, learn along the way. Welcome to my blog!
 
-Find my resume [here.](http://shamikh.tech/resume.pdf)
+Find my resume [here.](http://shamikh-mill.github.io/resume.pdf)
