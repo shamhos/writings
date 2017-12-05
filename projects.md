@@ -7,6 +7,8 @@ permalink: /projects/
 <h1>Past and current projects</h1>
 Some neat stuff that I've worked on, am currently working on, or have contributed to, in a team or individually.
 
+[Indian Village Satellite Imagery and Energy Access Dataset](https://figshare.com/articles/Indian_Village_Satellite_Imagery_and_Energy_Access_Dataset/5552743) - A supervised-learning dataset compiled in summer 2017 in the Data+ program that contains detailed features for every village in the Indian state of Bihar, including satellite imagery, political boundaries, lights at night imagery, rainfall and vegetation indices and electrification rate approximations. In the current academic semester, I'm working to develop classifiers using this data to be able to predict electrification rates at scale. 
+
 - [Power Plant Satellite Imagery Dataset](https://figshare.com/articles/Power_Plant_Satellite_Imagery_Dataset/5307364) - A supervised-learning dataset of satellite imagery of powerplants agglomerated in summer 2017 for potential usage in training computer vision and machine learning models or applications. Open-source dataset has been published on Figshare. Technologies used included Python/NumPy/SciPy, ArcGIS. 
 
 - [Biology IT Inventory](http://bioinventory.herokuapp.com/) - A web platform and accompanying REST API built using Django, the Django REST Framework and PostgreSQL for keeping track of loaner equipment inventory of Duke's Biology IT helpdesk. [GitHub](https://github.com/shamikh-mill/bio-inventory)
