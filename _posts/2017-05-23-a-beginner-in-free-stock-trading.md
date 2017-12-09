@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intro to stock trading"
+title:  "A beginner in free stock trading"
 date:   2017-05-23 10:00:38 -0500
 categories: econ'
 
