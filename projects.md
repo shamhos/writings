@@ -16,7 +16,7 @@ Some neat stuff that I've worked on, am currently working on, or have contribute
 
 3.	[Politiquette](https://github.com/rahulgs12/politiquette) – A Chrome browser extension displaying on-hover interest group ratings for US senators on inequality issues, developed backend API-like functionality for the extension in Flask, Python, HTML/CSS/JS 
 
-4. [Biology IT Inventory](http://bioinventory.herokuapp.com/) - A web platform and accompanying REST API built using Django, the Django REST Framework and PostgreSQL for keeping track of loaner equipment inventory of Duke's Biology IT helpdesk. [GitHub](https://github.com/shamikh-mill/bio-inventory)
+4. [Biology IT Inventory](http://bioinventory.herokuapp.com/) - A web platform and accompanying REST API built using Django, the Django REST Framework and PostgreSQL for keeping track of loaner equipment inventory of Duke's Biology IT helpdesk. [GitHub](https://github.com/shamhos/bio-inventory)
 
 5. [Hitchecker](https://github.com/tn74/MTurkAnnotationTool/blob/master/ASCRIPT_hit_checker.py) - A research tool and Python program for crowdsourced data review that uses the Amazon Mechanical Turk API to allow researchers/Turk users to review image labels and annotations received for their crowdsourced Human Intelligence Tasks (HITs). Built in summer 2017 as part of an open-source end-to-end web [platform](https://github.com/tn74/MTurkAnnotationTool) for receiving and reviewing responses on Mechanical Turk for construcing image-related training datasets. Reduced the time needed for paying workers as well as reviewing the crowdsourced data for human error, random or systematic.
 
@@ -27,7 +27,7 @@ Some neat stuff that I've worked on, am currently working on, or have contribute
 8. [Video Tutorial Series](https://www.youtube.com/user/computerpowerguide) - maintained YouTube channel of HD tutorials on
 computer software and graphic design, accumulated 185,000+ video views over the years. 
 
-9. IB Extended Essay in History: [The Effect of Civil Service Examinations on the Great Divergence in Late Dynastic China](http://shamikh-mill.github.io/ee.pdf) - Research paper written for the IB program in my senior year of high school examining a question I had wondered about since 10th grade- how did China's civil service examinations affect its macroeconomic growth over time, and did it have anything to do with [the Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence)?
+9. IB Extended Essay in History: [The Effect of Civil Service Examinations on the Great Divergence in Late Dynastic China](http://shamhos.github.io/ee.pdf) - Research paper written for the IB program in my senior year of high school examining a question I had wondered about since 10th grade- how did China's civil service examinations affect its macroeconomic growth over time, and did it have anything to do with [the Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence)?
 
 
 Posts
