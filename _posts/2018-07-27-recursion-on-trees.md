@@ -38,7 +38,8 @@ def size(root):
 	# base case: null node 
 	if root == None: 
 		return 0 
-	# count this node, then recurse on left and right subtrees, combining results with summation. 
+	# count this node, then recurse on left and right subtrees
+	# combine results with summation
 	return 1 + size(root.left) + size(root.right)
 {% endhighlight %}   
 
@@ -69,7 +70,8 @@ def get_height(root):
 	# recursive calls on subtrees to determine their heights
 	left_height = get_height(root.left)
 	right_height = get_height(root.right)
-	# "combine" the results by taking the maximum height of the node's subtrees, and adding 1
+	# "combine" the results by taking the max height of node's subtrees
+	# Remember to add 1
 	return max(left_height, right_height) + 1
 {% endhighlight %}   
 
