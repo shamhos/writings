@@ -75,7 +75,7 @@ def get_height(root):
 	return max(left_height, right_height) + 1
 {% endhighlight %}   
 
-4- Check if a binary tree (non-search) contains a specific node. 
+4- Check if a binary tree (non-search) contains a specific node.  
 What decision are we making at each node? Well, we just want to know if the current node is the key node we are searching for. If it is, we can return True. If it is not, we can recurse on both left and right subtrees to continue the search.   
 This time, the way we are combining our recursive calls is with a logical OR operation, as the key can be contained in either subtree. Note that since this is not a binary search tree, we must continue to search both left and right subtrees, instead of being able to know which side to look at. This means that our time complexity will be O(n) where n is the number of nodes in the tree, instead of the O(logn) search provided by binary search trees. 
 
@@ -102,7 +102,7 @@ def search_bst(root, key):
 	return search_bst(root.right, key)
 {% endhighlight %}   
 
-6- Checking if two binary trees are identical 
+6- Checking if two binary trees are identical  
 Two binary trees are identical if they have the same structure and same values. We can determine this equality by traversing both trees simultaneously and comparing the values. We first validate structure of the trees, ensuring that if a left or right subtree of a node exists in one tree, then it corresponds to the same occuring in the other tree. Then, we check the value in the node. We do this at every node by making recursive calls on the subtrees at each node. We combine the results with a logical AND operation. 
 {% highlight python %}
 def match_tree(root1, root2): 
